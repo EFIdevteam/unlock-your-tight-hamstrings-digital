@@ -1,31 +1,150 @@
 <section class="container2 p-0">
-    <div class="container section-7-div1">
-        <div class="row">
-            <div class="col-md-12 d-flex justify-content-center">
-                <img src="assets/images/forty-dollar-off.png" alt="forty-dollar-off" width="80%" height="auto">
+   <div class="container section-6-blur-top">
+        <div class="row card-wrapper w-90 mx-auto my-3 bg-white">
+            <div class="col-md-3 ">
+                <div class="rating-container">
+                    <div class="img-card-container-6 margin-auto"></div>
+                    <div class="rating">
+                        ★★★★★
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-9 m-0">
+                <p class="text-blue text-bold">
+                    Mom-Approved Relief
+                </p>
+                <p class="text-black fst-italic">
+                    "With two kids and a million things to do, I had no time for long workouts or fancy equipment. My
+                    legs were so tight and heavy I could barely keep up. <span class="text-bold">This 5-minute fix was a lifesaver because I
+                    could do it while the kids ate breakfast.</span>
+                </p>
+                <p class="text-black fst-italic">
+                    After just a few days, I could bend down to pick up toys and chase the kids at the park without
+                    hurting. <span class="text-bold">It feels good to move around freely again.</span>
+                </p>
+                <p class="text-black fst-italic">
+                    Moms really need things that are simple and actually work, and this checks all the boxes."
+                </p>
+
+                <p class="text-black" style="margin-bottom: 0px;">
+                    <span class="text-bold fst-italic">Kelly, Dallas, TX - </span>
+                    <span>
+                        <img src="assets/images/Verified-Buyer.png" alt="Verified Buyer" height="60px" width="auto">
+                    </span>
+                </p>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-12 d-flex mx-auto justify-content-center">
-                <img src="assets/images/price-slash.png" alt="price-slash" width="60%" height="auto">
+        <div class="row card-wrapper w-90 mx-auto my-3 bg-white">
+            <div class="col-md-3 ">
+                <div class="rating-container">
+                    <div class="img-card-container-7 margin-auto"></div>
+                    <div class="rating">
+                        ★★★★★
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-9 m-0">
+                <p class="text-blue text-bold">
+                    Back in the Game Faster
+                </p>
+                <p class="text-black fst-italic">
+                    “I’ve been playing basketball and running on weekends for years, but lately my legs were so stiff I
+                    could barely move the next day.
+                </p>
+                <p class="text-black fst-italic">
+                    It was messing with my back, too, and I felt like I was falling apart.
+                </p>
+                <p class="text-black fst-italic">
+                    This hamstring program was like hitting a total reset button. The steps were easy, and I felt <span class="text-bold">more
+                    flexible within the first week.</span>
+                </p>
+                <p class="text-black fst-italic">
+                    Now I’m back on the court, <span class="text-bold">moving quicker,</span> and with way less fear of hurting myself. That alone is
+                    worth everything.”
+                </p>
+                <p class="text-black" style="margin-bottom: 0px;">
+                    <span class="text-bold fst-italic">Jason, San Diego, CA - </span>
+                    <span>
+                        <img src="assets/images/Verified-Buyer.png" alt="Verified Buyer" height="60px" width="auto">
+                    </span>
+                </p>
             </div>
         </div>
-        <div class="row">
-            <div class="col-12 text-center">
-                <a href="https://hipflexors.pay.clickbank.net/?cbitems=uythvsltool9uybaff9jul25&template=orderform&cbfid=61179&vtid=uythvsltool9uybaff" rel="noopener noreferrer" target="_blank">
-                    <img src="assets/images/buy-now-grp.png" alt="buy-now-grp" style="width:80%; height:auto; display:block; margin:0 auto;">
-                </a>
+        <div class="row card-wrapper w-90 mx-auto my-3 bg-white">
+            <div class="col-md-3 ">
+                <div class="rating-container">
+                    <div class="img-card-container-8 margin-auto"></div>
+                    <div class="rating">
+                        ★★★★★
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-9 m-0">
+                <p class="text-blue text-bold">
+                    Run Stronger, Run Safer
+                </p>
+                <p class="text-black fst-italic">
+                    "I always thought sore hamstrings were just part of being a runner, but they kept holding me back.
+                    My pace was getting worse, and I worried I’d pull a muscle.
+                </p>
+                <p class="text-black fst-italic">
+                    These simple stretches changed all that. <span class="text-bold">I felt lighter on my feet, stronger in my stride, and had
+                    less tightness after running.</span>
+                </p>
+                <p class="text-black fst-italic">
+                    It’s become part of my warm-up routine because it actually works. It’s a <span class="text-bold">huge relief</span> to know I can
+                    run with <span class="text-bold">confidence again</span> and not feel like my legs are fighting me.”
+                </p>
+
+                <p class="text-black" style="margin-bottom: 0px;">
+                    <span class="text-bold fst-italic">Eric, Portland, OR - </span>
+                    <span>
+                        <img src="assets/images/Verified-Buyer.png" alt="Verified Buyer" height="60px" width="auto">
+                    </span>
+                </p>
             </div>
         </div>
     </div>
+
+ 
+      <div class="container section-7-top-shadow">
+        <div class="row">
+            <div class="col-md-12 text-center">
+
+                <div class="row">
+                        <h1 class="text-white">Bring back your energy, freedom, <br>and strength with</h1>
+                        <h1 class="text-yellow">Unlock Your Tight Hamstrings</h1>
+                        <h2 class="text-white">Claim Your Copy and Grab Your Free Bonuses Today.</h2>
+
+                        <div>
+                          <img src="assets/images/Unlock Your Tight Hamstrings - Bundle no Tool + Cards 2.png"
+                            alt="buy now button with price comparison" width="70%" height="auto">
+                        </div>
+                        <div>
+                          <img src="assets/images/HTM Unlock Your Tight Hamstrings - Digital Only.png"
+                            alt="buy now button with price comparison" width="70%" height="auto">
+                        </div>
+
+                    <div class="col-md-12 d-flex justify-content-center">
+                        <a href="https://hipflexors.pay.clickbank.net/?cbitems=uythvsltool9uybaff9jul25&template=orderform&cbfid=61179&vtid=uythvsltool9uybaff">
+                        <img src="assets/images/buy-now-grp.png"
+                            alt="buy now button with price comparison" width="70%" height="auto"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+
     <div class="container section-7-div2">
         <div class="row">
             <div class="col">
                 <h1 class="text-center my-5 mx-auto">
                     About Unlock Your Tight Hamstrings
                 </h1>
-                <div>
+                <div class="px-5">
                     <p class="fw-bold text-red2">Q: How is this different from other stretching programs?</p>
                     <p>A: Most stretching routines only scratch the surface and don’t address the deeper layers of
                         tightness. Rick’s program uses a unique sequence that targets the root causes of stiffness, not
@@ -82,7 +201,7 @@
     </div>
     <div class="container section-7-div3">
         <div class="row">
-            <div class="col text-wrap">
+            <div class="col text-wrap px-5">
                 <p>References for Unlock Your Tight Hamstrings:</p>
                 <ol style="word-wrap:break-word;">
                     <li>
@@ -188,20 +307,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col">
-                <p>
-For Product Support, please contact the seller <a href ="https://healingthroughmovement.zendesk.com/hc/en-us"> HERE</a>.<br>
-For Order Support, please contact ClickBank <a href ="https://www.clkbank.com/#!/"> HERE</a>. <br>
-
-                </p>
+            <div class="col px-5">
                 <p style="font-size:16px; color:grey;">
                     ClickBank is the retailer of products on this site. CLICKBANK® is a registered trademark of Click Sales Inc., a Delaware corporation located at 1444 S. Entertainment Ave., Suite 410 Boise, ID 83709, USA and used by permission. ClickBank's role as retailer does not constitute an endorsement, approval or review of these products or any claim, statement or opinion used in promotion of these products.
-<br><br>
-As an Internet Retailer, ClickBank has worked in partnership with the major card brands to update our platform to reflect this status. One of the required safeguards of such an undertaking is the visible presence of ClickBank branding on the Pitch Pages.
-<br>
-The website's content and the product for sale is based upon the author's opinion and is provided solely on an "AS IS" and "AS AVAILABLE" basis. You should do your own research and confirm the information with other sources when searching for information regarding health issues and always review the information carefully with your professional health care provider before using any of the protocols presented on this website and/or in the product sold here. Neither ClickBank nor the author are engaged in rendering medical or similar professional services or advice via this website or in the product, and the information provided is not intended to replace medical advice offered by a physician or other licensed healthcare provider. You should not construe ClickBank's sale of this product as an endorsement by ClickBank of the views expressed herein, or any warranty or guarantee of any strategy, recommendation, treatment, action, or application of advice made by the author of the product.
                 </p>
-                <p>
                 <p class="text-center">
                     <span><a href="https://www.unlockmyhips.com/about.php">About</a></span> | <span><a
                             href="https://healingthroughmovement.com/contact/">Contact</a></span> | <span><a
@@ -211,7 +320,6 @@ The website's content and the product for sale is based upon the author's opinio
                     <span><a href="https://www.unlockmyhips.com/cookie.php">Cookie Policy</a></span> | <span><a
                             href="https://www.unlockmyhips.com/shipping.php">Shipping & Return Policy</a></span>
                     | <span><a href="https://www.unlockmyhips.com/partners">Affiliates</a></span>
-                </p>
                 </p>
             </div>
         </div>

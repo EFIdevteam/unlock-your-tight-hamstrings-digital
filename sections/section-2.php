@@ -2,8 +2,8 @@
   <br>
   <br>
   <div class="text-center">
-      <h2 class="text-black">That’s What’s Possible When You</h2>
-      <h2 class="text-danger">Try This Hamstring Release Method Like Thousands of Others…</h2>
+      <h2 class="text-black"><span class="bg-white px-2">That’s What’s Possible When You Try This</span></h2>
+      <h2 class="text-dark-green"><span class="bg-white px-2">Hamstring Release Method Like Thousands of Others…</span></h2>
   </div>
   <br>
   <br>
@@ -24,8 +24,7 @@
         are completely gone."
       </p>
       <img src="assets/images/5stars.png" alt="Check" class="img-fluid" width="150" />
-      <p class="text-black" style="margin-bottom: -12px;"><b>Lisa from Buffalo, New York</b></p>
-      <img src="assets/images/Verified Buyer.png" alt="Check" class="img-fluid" width="150" />
+      <p class="text-black"><b>Lisa from Buffalo, New York </b><img src="assets/images/Verified Buyer.png" alt="Check" class="img-fluid" width="150" /></p>
     </div>
   </div>
 
@@ -45,8 +44,8 @@
       </p>
       <br>
       <img src="assets/images/5stars.png" alt="Check" class="img-fluid" width="150" />
-      <p class="text-black" style="margin-bottom: -12px;"><b>Emma from Los Angeles, California</b></p>
-      <img src="assets/images/Verified Buyer.png" alt="Check" class="img-fluid" width="150" />
+      <p class="text-black" style="margin-bottom: -12px;"><b>Emma from Los Angeles, California </b> <img src="assets/images/Verified Buyer.png" alt="Check" class="img-fluid" width="150" /></p>
+      
     </div>
   </div>
 
@@ -66,8 +65,8 @@
         thank you for changing my life."
       </p>
       <img src="assets/images/5stars.png" alt="Check" class="img-fluid" width="150" />
-      <p class="text-black" style="margin-bottom: -12px;"><b>Tom from Orlando, Florida</b></p>
-      <img src="assets/images/Verified Buyer.png" alt="Check" class="img-fluid" width="150" />
+      <p class="text-black" style="margin-bottom: -12px;"><b>Tom from Orlando, Florida</b> <img src="assets/images/Verified Buyer.png" alt="Check" class="img-fluid" width="150" /></p>
+     
 		</div>
 	</div>
 
@@ -75,11 +74,10 @@
   <br>
 
   <div class="text-center">
-      <h2 class="text-danger mt-5">See how Emma, Tom, and Lisa found relief...</h2>
-      <h2 class="text-black">This simple 5-minute stretch can loosen your hamstrings, ease pain, and boost your energy<span class="text-danger">—fast</span>. Try it today…</h2>
+      <h2 class="mt-5"><span class="bg-white px-2">See how Lisa Emma, and Tom found relief...</span></h2>
+      <h2><span class="text-dark-green bg-white px-2">This simple 5-minute stretch can loosen your hamstrings, ease pain,</span> <br> <span class="bg-white px-2">and boost your energy—fast.</span><span class="bg-white px-2">Try it today…</span></h2>
   </div>
 
-  <br>
   <br>
 
 </div>
@@ -126,9 +124,7 @@
 <div class="container section-2-hero-wrapper-2" style="box-shadow: 0 18px 12px rgb(0 0 0 / 38%);">
 	<div class="row">
 		<div class="row mt-4">
-      		<div class="col-md-4 text-center">
-						<img class="img-fluid img-layout hide-content-on-mobile" src="assets/images/young woman stretching.png" style="border-radius: 0!important;" />
-	</div>
+    
 					<div class="col-md-8">
             <div>  
               <h3 class="text-white text-center"><b>Yet that’s not all… <span class="text-yellow">You’ll also notice other benefits</span>. Once your tight hamstrings are released…</b></h3>   
@@ -171,12 +167,16 @@
               </ul>
 	</div>
 					</div>
+
+                <div class="col-md-4 text-center">
+            <img class="img-fluid img-layout hide-content-on-mobile" src="assets/images/young woman stretching.png" style="border-radius: 0!important; transform: scaleX(-1)" />
+  </div>
 		</div>
 
 					<div class="row" style="margin-top: -40px;">
-					         <div class="col-md-8">
+					         <div class="col-md-12">
 			<div class="show-content-on-mobile mb-4">
-				<img class="img-fluid img-layout" src="assets/images/young woman stretching.png" style="border-radius: 0!important;" />
+				<img class="img-fluid img-layout" src="assets/images/young woman stretching.png" style="border-radius: 0!important; transform: scaleX(-1)" />
 			</div>
 					          <div class="py-5">
               <p class="text-white">Now, I know this might sound surprising. </p>
@@ -187,21 +187,19 @@
 					          </div>
 					        </div>
 
-					           <div class="col-md-4 text-center">
-						<img class="img-fluid img-layout " src="assets/images/Getting ready to knockout another workout small pic.png" style="border-radius: 0!important;" />
-					        </div>
+				
 					    </div>
 
 				</div>
 						<br>
 			</div>
 
-<div class="container bg-white">
+<div class="container" style="background-color: #e9eff7">
 			<br>
   <br>
   <div class="text-center">
-      <h2 class="text-danger">A Science-Backed Hamstring Release: </h2>
-      <h2 class="text-danger">Activate, Strengthen, and Restore Flexibility</h2>
+      <h2><span class="bg-white px-2">A Science-Backed Hamstring Release: </span></h2>
+      <h2 class="text-dark-green"><span class="bg-white px-2">Activate, Strengthen, and Restore Flexibility</span></h2>
   </div>
   <br>
   <br>
@@ -344,7 +342,7 @@
       <!-- Heading -->
       <div class="text-center">
         <h2 class="text-black">Loosening Your Tight Hamstrings Can Actually Be Easy</h2>
-        <h2 class="text-black">With the <span class="text-danger">TARGETED ACTIVATION</span> Flow and This <span class="text-danger">Hamstring Lock Breaker</span></h2>
+        <h2 class="text-black">With the <span class="text-dark-green">TARGETED ACTIVATION</span> Flow</h2>
       </div>
       <br>    
       <br>

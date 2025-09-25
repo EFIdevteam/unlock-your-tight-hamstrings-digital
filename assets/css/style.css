@@ -1459,6 +1459,75 @@ h1 {
 	padding: 20px;
 }
 
+.section-blur-shadow {
+	position: relative;
+	background-color: #000000;
+	padding: 20px;
+}
+
+.section-blur-shadow::before {
+	position: absolute;
+	content: "";
+	top: -30px;
+	left: 0;
+	width: 100%;
+	height: 30px;
+	background-image: linear-gradient(to top, #000000, #d9d7d7);
+	background-repeat: no-repeat;
+	background-position: center right;
+	background-size: cover;
+	opacity: 0.8;
+	margin: 0px;
+	z-index: 2;
+}
+
+.section-6-blur-top-gray {
+	position: relative;
+	background-color: #d9d7d7;
+	padding: 20px;
+}
+
+
+.section-6-blur-top-gray::before {
+	position: absolute;
+    content: "";
+    top: -25px;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    background-image: linear-gradient(to top, #d9d7d7, #ffff);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: cover;
+    opacity: 0.8;
+    margin: 0px;
+    z-index: 2;
+}
+
+.section-6-blur-top {
+	position: relative;
+	background-color: #d9d7d7;
+	padding: 20px;
+}
+
+.section-6-blur-top::before {
+	position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    background-image: linear-gradient(to top, #d9d7d7, #000000);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: cover;
+    opacity: 0.8;
+    margin: 0px;
+    z-index: 2;
+}
+
+
+
 .section-6-div3::before {
 	position: absolute;
 	content: "";
@@ -1474,6 +1543,29 @@ h1 {
 	margin: 0px;
 	z-index: 2;
 }
+
+.section-7-top-shadow {
+	position: relative;
+	background-color: #000000;
+	padding: 20px;
+}
+
+.section-7-top-shadow::before {
+	position: absolute;
+	content: "";
+	top: -30px;
+	left: 0;
+	width: 100%;
+	height: 30px;
+	background-image: linear-gradient(to top, #000000, #d9d7d7);
+	background-repeat: no-repeat;
+	background-position: center right;
+	background-size: cover;
+	opacity: 0.8;
+	margin: 0px;
+	z-index: 2;
+}
+
 
 .section-6-div3 {
 	position: relative;
@@ -1595,3 +1687,38 @@ h1 {
 	display: flex; /* Makes the columns flex items */
 	flex-direction: column; /* Arranges content vertically within the column */
 }
+
+/*New update*/
+
+.text-dark-green {
+	color: #407809
+}
+
+.hips-and-knees-img {
+	max-width: 350px;
+	margin: auto;
+}
+
+.s1-think-your-pain-title {
+	position: relative;
+    z-index: 1;
+    border-radius: 20px;
+}
+
+.s1-think-your-pain-title-2 {
+	 border-bottom-left-radius: 20px; 
+    border-bottom-right-radius: 20px; 
+}
+
+.container-box-shadow {
+	box-shadow: 
+    0 -15px 30px rgba(0, 0, 0, 0.5), 
+    0 15px 30px rgba(0, 0, 0, 0.5);
+}
+
+.mb-4 {
+margin-bottom: 4rem;
+}
+
+
+

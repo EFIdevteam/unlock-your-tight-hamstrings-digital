@@ -44,12 +44,14 @@
     </div>
   </div>
 
-		<h2 style="padding: 10px 25px; color: #d01920" class="text-black text-center">Tight muscles could be holding everything back – energy, sleep, even how your body feels.</h2>
-    <h2 style="padding: 10px 25px; color: #d01920" class="text-black text-center">But once they’re released, muscle stiffness fades and everything starts working like it should again.</h2>
+
+      <div class="text-center">
+        <h2>Tight muscles could be holding everything back – energy, sleep, even how your body feels. <span class="text-dark-green">But once they’re released, muscle stiffness fades and everything starts working like it should again.</span> </h2>
+      </div>
 
 		<div class="row">
       		<div class="col-md-4 text-center">
-						<img class="img-fluid img-layout hide-content-on-mobile" src="assets/images/Leg Anatomy.png" style="border-radius: 0!important;margin-left:20px;" />
+						<img class="img-fluid img-layout hide-content-on-mobile border-box" src="assets/images/Leg Anatomy.png" style="border-radius: 0!important;margin-left:20px;" />
 					</div>
 					<div class="col-md-8">
             <div class="py-1">            
@@ -62,22 +64,18 @@
             </div>
 					</div>
           <div class="show-content-on-mobile">
-            <img class="img-fluid img-layout show-content-on-mobile" src="assets/images/Leg Anatomy.png" style="border-radius: 0!important;" />
+            <img class="img-fluid img-layout show-content-on-mobile border-box" src="assets/images/Leg Anatomy.png" style="border-radius: 0!important;" />
           </div>
      </div>
 
 		<div class="row">
-					<div class="col-md-8">
+					<div class="col-md-12">
             <div class="py-1">            
               <p class="text-black">I’m Rick Kaselj, a kinesiologist with 25+ years helping <strong>thousands of people</strong> fix pain through movement.</p>
               <p class="text-black">Tight hamstrings are one of the most overlooked causes of <strong>stiffness, pain, and limited movement</strong>.</p>
               <p class="text-black">When you release them, your body moves better, feels stronger, and the pain starts to disappear.</p>
         </div>
         </div>
-     
-					<div class="col-md-4 text-center">
-						<img class="img-fluid img-layout " src="assets/images/Rick-Kaselj-2018-300x257.jpg" style="border-radius: 0!important;" />
-     </div>
         </div>
 
 	</div>
@@ -110,7 +108,7 @@
 
             <ul class="yellow-text" style="padding-left: 0;">
               <li style="display: flex;margin-left: 48px;">
-                <p><u>You won’t have to:</u></p>
+                <p class="fw-bold text-white"><u>You won’t have to:</u></p>
               </li>
               <li style="display: flex;">
                 <i class="fa-solid fa-circle-xmark x-icon"></i>
@@ -138,7 +136,7 @@
 
           <ul class="yellow-text" style="padding-left: 0;">
               <li style="display: flex;margin-left: 48px;">
-                <p><u>Now, with this quick 5-minute stretch, you can:</u></p>
+                <p class="fw-bold text-white"><u>Now, with this quick 5-minute stretch, you can:</u></p>
               </li>
               <li style="display: flex;">
                 <i class="fa-solid fa-circle-check x-icon" style="color:green"></i>
@@ -178,6 +176,13 @@
         <h1 class="mt-5">Meet Your Hamstrings: <span class="yellow-text">The Powerful Muscles That Boost Mobility, Prevent Pain, and Energize Your Life</span></h1>
       </div>
 
+            <!-- Image Section -->
+      <div class="col-md-6 text-center">
+        <div class="hips-and-knees-img">
+          <img class="img-fluid" src="assets/images/Unlock Your Tight Hamstrings11.png"  />
+        </div>
+      </div>
+
       <!-- Text Section -->
       <div class="col-md-6">
         <div>
@@ -188,7 +193,12 @@
           <p>These muscles start from your hip bones, pass along the back of your thigh, and end just under your knee.</p>
           <p>Healthy hamstrings keep your hips steady, support your lower back...</p>
           <p class="yellow-text"><b>And help your legs move easily and strongly.</b></p>
-          <p>When your hamstrings function well, they can help you…</p><br>
+         
+        </div>
+      </div>
+
+      <div>
+         <p>When your hamstrings function well, they can help you…</p><br>
           <ul class="yellow-text" style="padding-left: 0;margin-bottom:0;">
 
             <li style="display: flex;"> 
@@ -216,13 +226,8 @@
                 <p><b>boost your mobility, allowing you to perform daily tasks effortlessly.</b></p>
             </li>
           </ul>
-        </div>
       </div>
 
-      <!-- Image Section -->
-      <div class="col-md-6 text-center">
-        <img class="img-fluid" src="assets/images/Unlock Your Tight Hamstrings11.png"  />
-      </div>
 
       
       <!-- Additional Text Section -->
@@ -242,7 +247,12 @@
     <!-- Text Overlay -->
     <div class="row" style="position: relative; z-index: 1;">
     <div class="col-md-12" style="margin-top: 15px;">
-            <h1 style="padding: 5px;" class="text-center">Think your pain, stiffness, and fatigue are just aging?<span class="text-danger"> Think again.</span></h1>
+
+      <div class="text-center">
+          <h1> <span class="bg-white p-1 s1-think-your-pain-title px-4">Think your pain, stiffness, and fatigue are just aging?</span> <br>
+          <span class="text-dark-green bg-white p-2 s1-think-your-pain-title-2 px-4">Think again.</span> </h1>
+      </div>
+
   </div>
 
     <div class="row">
@@ -255,7 +265,7 @@
                       <p>You might think your aches, back pain, and stiffness are just from aging or not moving enough.</p>
                       <p>But new research shows it might be your tight hamstrings causing these problems.</p>
                       <p>These muscles sit at the back of your thighs, helping your hips and legs move smoothly.</p>
-                      <p>When they're tight, your posture suffers, and your back and hips can feel sore.</p>
+                      <p>When they're tight, your <span class="text-danger fw-bold">posture suffers, and your back and hips can feel sore</span>.</p>
                       <p>If you loosen your hamstrings, you'll feel less pain and move better, with more confidence.</p>
                       <p class="text-danger"><b>Keep reading, because you're about to learn something brand new.</b></p>
               <div class="show-content-on-mobile">

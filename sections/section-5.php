@@ -5,31 +5,26 @@
     <div class="container section-5-div1">
         <div class="row">
             <div class="col-md-12 text-center text-white">
-                <h1 class="my-5">
-                    It’s time to bring fresh energy, freedom, and strength back into your body by <span
+                <h1>
+                    It’s time to bring fresh energy, freedom, <br> and strength back into your body by <br> <span
                         class="text-yellow ">Unlocking Your Tight
                         Hamstrings.</span>
                 </h1>
-                <h1>
+                <h2>
                     Claim Your Copy and Grab Your Free Bonuses Today.
-                </h1>
+                </h2>
             </div>
-
         </div>
         <div class="row">
             <div class="col-md-12 d-block">
-                <img src="assets/images/HTM-Unlock-Your-Tight-Hamstrings-bundle.png"
+                <img src="assets/images/Unlock Your Tight Hamstrings - Bundle no Tool + Cards 2.png"
                     alt="HTM-Unlock-Your-Tight-Hamstrings-bundle" width="100%" height="auto">
             </div>
         </div>
+    
         <div class="row">
             <div class="col-md-12 d-flex justify-content-center">
-                <img src="assets/images/forty-dollar-off.png" alt="forty-dollar-off" width="80%" height="auto">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12 d-flex justify-content-center">
-                <img src="assets/images/price-slash.png" alt="price-slash" width="60%" height="auto">
+                <img src="assets/images/HTM Unlock Your Tight Hamstrings - Digital Only.png" alt="price-slash" width="60%" height="auto">
             </div>
         </div>
         <div class="row">
@@ -39,7 +34,15 @@
         </div>
     </div>
     <div class="container section-5-div2">
-        <div class="row px-4 pt-5 section-5-div2-row1">
+        <div class="row px-4 pt-2 section-5-div2-row1">
+
+                  <div class="text-center">
+                       <h1>
+                     These Are the Results You’ll Experience <br>
+                     <span class="text-dark-green">When You Free Your Hamstrings </span>
+                </h1>
+                  </div>
+
             <div class="col-7 col-mobile">
                 <p>
                     <span class="text-red2 text-bold">Build more power and see results faster</span> — unlocking tight
@@ -100,11 +103,11 @@
     <div class="section-5-div3">
         <div class="row section-5-div3-row1">
             <div class="col-md-12 text-center">
-                <h1>
-                    Now Is Your Time To Take Control
+                <h1 class="mt-3">
+                    <span class="bg-white px-2">Now Is Your Time To Take Control</span>
                 </h1>
                 <h1 class="text-red">
-                    And Feel Strong, Flexible, And Pain-Free Again.
+                    <span class="bg-white px-2 text-dark-green">And Feel Strong, Flexible, And Pain-Free Again.</span>
                 </h1>
             </div>
         </div>
@@ -185,9 +188,22 @@
             <div class="col-md-12 text-center">
 
                 <div class="row">
-                    <a class="col-md-12 d-flex justify-content-center">
+                        <h1 class="text-white">Bring back your energy, freedom, <br>and strength with</h1>
+                        <h1 class="text-yellow">Unlock Your Tight Hamstrings</h1>
+                        <h2 class="text-white">Claim Your Copy and Grab Your Free Bonuses Today.</h2>
+
+                        <div>
+                          <img src="assets/images/Unlock Your Tight Hamstrings - Bundle no Tool + Cards 2.png"
+                            alt="buy now button with price comparison" width="70%" height="auto">
+                        </div>
+                        <div>
+                          <img src="assets/images/HTM Unlock Your Tight Hamstrings - Digital Only (1).png"
+                            alt="buy now button with price comparison" width="70%" height="auto">
+                        </div>
+
+                    <div class="col-md-12 d-flex justify-content-center">
                         <a href="https://hipflexors.pay.clickbank.net/?cbitems=uythvsltool9uybaff9jul25&template=orderform&cbfid=61179&vtid=uythvsltool9uybaff">
-                        <img src="assets/images/buy-now-button-with-price-comp.png"
+                        <img src="assets/images/buy-now-grp.png"
                             alt="buy now button with price comparison" width="70%" height="auto"></a>
                     </div>
                 </div>

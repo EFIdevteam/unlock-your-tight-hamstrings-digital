@@ -1,48 +1,8 @@
-<div class="container" style="background-color: black;">
-  <div class="row">
-    <div class="col-md-12">
-        <div class="row row-eq-height text-white">
-            <div class="col-md-6 bordered-div">
-                <div class="p-20 m-10" style="box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);border: 1px solid yellow;height: 100%;">
-                    <div>
-                        <h2 class="text-white text-center">+ Bonus 3</h2>
-                        <h2 class="text-yellow text-center">Free Lifetime Membership in VIP Coaching Group</h2>
-                        <p class="text-yellow text-center">Stay Motivated, Stay Accountable, Stay Pain-Free</p>
-                        <p class="text-center"><img class="img-fluid" src="assets/images/LLWA VIP Card 3D.png" alt="LLWA VIP Card 3D"></p>
-                        <p class="text-white text-left">When you get Unlock Your Tight Hamstrings, you also receive free lifetime access to the Lifelong Wellness Academy VIP Coaching Group.</p>
-                        <p class="text-white text-left">In this group, questions can be answered by a team of health and fitness experts who understand how to help you move better and feel stronger.</p>
-                        <p class="text-white text-left">You’ll also gain valuable support, motivation, and accountability which are often hard to find on your own. These elements are key to following through with Unlock Your Tight Hamstrings so you can loosen stiff muscles, improve flexibility, and keep pain from coming back.</p>
-                        <p class="text-white text-left">For many people, this coaching group is the missing piece that helps them finally stay consistent, move with confidence, and achieve lasting results.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 bordered-div">
-                <div class="p-20 m-10" style="box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);border: 1px solid yellow;height: 100%;">
-                    <div>
-                        <h2 class="text-white text-center">+ Bonus 4</h2>
-                        <h2 class="text-yellow text-center">Lifetime Updates</h2>
-                        <p class="text-yellow text-center">Stay Up to Date for Strong, Flexible Hamstrings</p>
-                        <p class="text-center"><img class="img-fluid" src="assets/images/Unlock you Tight Hamstrings - Lifetime Updates 3D.png" alt="Unlock you Tight Hamstrings - Lifetime Updates 3D"></p>
-                        <br>
-                        <br>
-                        <p class="text-white text-left">Your path to healthy, flexible hamstrings keeps growing over time. As new exercises, tips, and helpful strategies come out, this program will be updated to keep you moving better and feeling great.</p>
-                        <p class="text-white text-left">All of these updates are included for free, with nothing extra to pay and no surprise costs. You will always have the latest and best ways to stay loose, strong, and pain-free.</p>
-                        <p class="text-white text-left">New ideas and improvements will be shared with you, so you can keep feeling confident that you are taking good care of your body. These updates will help you keep making progress without confusion or worry.</p>
-                        <p class="text-white text-left">With lifetime updates, you will stay on track and enjoy better movement and comfort for years to come.</p>
-                    </div>
-                </div> 
-            </div>
-        </div>
-
-    </div>
-  </div>
-</div>
-
 <div class="container bg-white" style="position: relative; overflow: hidden;">
     <div class="bg-style-section-4"></div>
   <br>
   <br>
-  <h2 class="text-black text-center" style="position: relative; z-index: 1;margin-top: 20px;">Inside the <span class="text-danger">Unlock Your Tight Hamstrings</span> Program, <br>You’ll <span class="text-danger">Uncover</span></h2>
+  <h2 class="text-black text-center" style="position: relative; z-index: 1;margin-top: 20px;">Inside the <span class="text-dark-green">Unlock Your Tight Hamstrings</span> Program, <br>You’ll <span class="text-dark-green">Uncover</span></h2>
 	<br>
   <div class="row" style="position: relative; z-index: 1;">
     <div class="row" style="margin-bottom: -60px;">
@@ -255,7 +215,7 @@
 					</div>
 
           <div class="col-md-4 text-center show-content-on-mobile">
-						<img class="img-fluid img-layout " src="assets/images/section-4-uyth-4.jpg" style="border-radius: 0!important;" />
+						<img class="img-fluid img-layout" src="assets/images/section-4-uyth-4.png" style="border-radius: 0!important;" />
 					</div>
 					<div class="col-md-8 show-content-on-mobile">
             <div>            
@@ -322,7 +282,7 @@
     <div class="bg-style-section-4-last"></div>
   <br>
   <div class="row" style="position: relative; z-index: 1;">
-    <h2 class="text-center">Experience freer movement, improved muscle strength, and renewed power —<span class="text-danger"> backed by a full money-back guarantee</span></h2>
+    <h2 class="text-center">Experience freer movement, improved muscle strength, and renewed power —<span class="text-dark-green"> backed by a full money-back guarantee</span></h2>
     <br>
     <div class="row vertical-align-center" style="border: 1.5px solid white;margin-top: 25px;">
 					<div class="col-md-6">
@@ -363,7 +323,7 @@
 <div class="container bg-white">
   <br>
   <br>
-  <h2 class="text-center">What Price would you pay to be the<br><span class="text-danger">Strongest that you can be?</span></h2>
+  <h2 class="text-center">What Price would you pay to be the<br><span class="text-dark-green">Strongest that you can be?</span></h2>
 	<br>
   <div class="row">
     <div class="row">

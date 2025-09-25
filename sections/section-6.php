@@ -2,8 +2,8 @@
     <div class="container section-6-div1">
         <div class="row p-4 section-6-div1-row1">
             <div class="col-3 col-mobile img-rck-mobile">
-                <img src="assets/images/Rick-Kaselj-2018-300x257.jpg" alt="Rick Kaselj" width="100%" height="auto"
-                    class="blurred-border">
+                <img src="assets/images/HTM Unlock Your Tight Hamstrings - Digital Only (2).png" alt="Rick Kaselj" width="100%" height="auto"
+                   >
                 <p style="font-size: 16px;">Rick Kaselj, MS, BSc<br />Healing Through Movement</p>
             </div>
             <div class="col-9 col-mobile">
@@ -42,7 +42,7 @@
             </div>
         </div>
     </div>
-    <div class="container section-6-div2">
+    <div class="container section-6-blur-top-gray">
         <div class="row card-wrapper w-90 mx-auto my-3 bg-white">
             <div class="col-md-3 ">
                 <div class="rating-container">
@@ -355,13 +355,13 @@
             </div>
         </div>
     </div>
-    <div class="container section-6-div3">
+    <div class="container section-blur-shadow">
         <div class="row align-items-center mt-4">
             <div class="col-12 text-center">
-                <h1 class="fs-2 fw-bold text-white">
+                <h1 class="text-white">
                     It’s time to bring fresh energy, freedom, and strength back into your body by
                 </h1>
-                <h1 class="fs-1 fw-bolder text-yellow2">
+                <h1 class="text-yellow2">
                     Unlocking Your Tight Hamstrings.
                 </h1><br>
                 <h1 class="fs-2 fw-bold text-white">
@@ -371,9 +371,20 @@
         </div>
         <div class="row">
             <div class="col-md-12 d-block">
-                <img src="assets/images/HTM-Unlock-Your-Tight-Hamstrings-bundle.png"
+                <img src="assets/images/Unlock Your Tight Hamstrings - Bundle no Tool + Cards 2.png"
                     alt="HTM-Unlock-Your-Tight-Hamstrings-bundle" width="100%" height="auto">
             </div>
+
+                  <div class="text-center">
+                          <img src="assets/images/HTM Unlock Your Tight Hamstrings - Digital Only (1).png"
+                            alt="buy now button with price comparison" width="70%" height="auto">
+                        </div>
+
+                    <div class="col-md-12 d-flex justify-content-center text-center">
+                        <a href="https://hipflexors.pay.clickbank.net/?cbitems=uythvsltool9uybaff9jul25&template=orderform&cbfid=61179&vtid=uythvsltool9uybaff">
+                        <img src="assets/images/buy-now-grp.png"
+                            alt="buy now button with price comparison" width="70%" height="auto"></a>
+                    </div>
         </div>
         <div class="row">
             <div class="col">
