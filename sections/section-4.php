@@ -282,7 +282,9 @@
     <div class="bg-style-section-4-last"></div>
   <br>
   <div class="row" style="position: relative; z-index: 1;">
-    <h2 class="text-center">Experience freer movement, improved muscle strength, and renewed power —<span class="text-dark-green"> backed by a full money-back guarantee</span></h2>
+    <div class="bg-white" style="max-width: 900px; margin: auto;">
+      <h2 class="text-center">Experience freer movement, improved muscle strength, and <br> renewed power —<span class="text-dark-green"> backed by a full money-back guarantee</span></h2>
+    </div>
     <br>
     <div class="row vertical-align-center" style="border: 1.5px solid white;margin-top: 25px;">
 					<div class="col-md-6">
@@ -343,7 +345,7 @@
                     Thousands have already transformed their flexibility and comfort with this program, and to celebrate reaching a quarter of a million fans on our Facebook page, we’re making it even more accessible for a very limited time.
                   </p>   
                   <p>
-                    If you take action today, you’ll get <b>Unlock Your Tight Hamstrings</b> for just $77, plus the Vesalius Triangle tool (a $49 value), the <b>Knee Primer Workout System</b> (a $37 value), <b>lifetime VIP coaching</b> (a $197 value), <b>free lifetime updates</b>, and <b>14 days of Lifelong Wellness Academy</b> access (a $67 value), all included at no extra cost.
+                    If you take action today, you’ll get <b>Unlock Your Tight Hamstrings</b> for just $29, the <b>Knee Primer Workout System</b> (a $37 value), <b>lifetime VIP coaching</b> (a $197 value), free lifetime updates, and <b>14 days of Lifelong Wellness Academy access</b> (a $67 value), all included at no extra cost.
                   </p>        
             </div>
 		</div>

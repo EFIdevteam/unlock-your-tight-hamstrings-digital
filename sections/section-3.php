@@ -31,7 +31,7 @@
         <p>So you wake up feeling younger, stronger, and full of life—without anything holding you back.</p>
         <p>And we’ve been really successful with this over the past 10 years through our healing through movement series…</p>
         <p>Which has now helped over 45,000 people of all ages get rid of pain in their bodies.</p>
-        <p>The secret is this breakthrough tool, the <b class="text-danger">Vesalius Triangle – the hamstring lock breaker</b>, designed to target stubborn tightness safely...</p>
+        <p>The secret is a breakthrough sequence, built from years of proven movement science to target stubborn tightness safely.</p>
         <p>Without surgery, medication, or needing to see a specialist.</p>
         <p>I’m not saying this to show off, but to let you know that…</p>
       </div>
@@ -89,7 +89,7 @@ I’ve seen firsthand how powerfully these techniques worked, not just with clie
                           <img class="img-fluid" src="assets/images/Unlock Your Tight Hamstrings - Case and DVD Disc HTM (no CB no Mike).png" alt="Rick Social">
                         </p>
                           <p class="text-white text-lef">These nine simple exercises help loosen tight hamstrings and make moving easier. Clear steps show how to do each one safely and with confidence.</p>
-                        <p class="text-white text-lef">The coaching video explains each move, how it works, and what to feel. The follow-along video lets the whole routine be done from start to finish without stopping.</p>
+                        <p class="text-white text-lef">Instant online access to a coaching video that explains each move, and a follow‑along video to complete the routine start to finish. </p>
                    </div>
         </div>       
             </div>
@@ -101,7 +101,7 @@ I’ve seen firsthand how powerfully these techniques worked, not just with clie
                         <p class="text-center">
                             <img class="img-fluid" src="assets/images/Unlock Your Tight Hamstrings - 3D Cover.png" alt="Rick Social">
                         </p>  
-                        <p class="text-white text-left">You’ll receive a detailed manual that explains how a tight hamstrings can affect your health and well-being, and why releasing it matters for better movement and comfort.</p>
+                        <p class="text-white text-left">You’ll receive a detailed digital manual that explains how tight hamstrings can affect your health and well-being, and why releasing them matters for better movement and comfort.</p>
                         <p class="text-white text-left">This manual also includes clear pictures and simple instructions for each exercise, making every step easy to follow.</p>
                     </div>
         </div>        
